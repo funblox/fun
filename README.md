@@ -1,2 +1,2 @@
 # fun
-Testing purposes
+Learning HTML, CSS and JS. 
